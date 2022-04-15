@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextoPrincipal">
+        <item name="android:textSize">60sp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="OrangeButtonBG">
+        <item name="android:textSize">20sp</item>
+        <item name="android:backgroundTint">@color/orange</item>
+    </style>
+    <style name="LightGrayButtonBG">
+        <item name="android:textSize">20sp</item>
+        <item name="android:backgroundTint">@color/light_gray</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="GrayButtonBG">
+        <item name="android:textSize">20sp</item>
+        <item name="android:backgroundTint">@color/gray</item>
+    </style>
+</resources>

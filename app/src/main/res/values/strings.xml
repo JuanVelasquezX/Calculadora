@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+
+    <string name="TextoInicio">0</string>
+    <string name="BtnClear">AC</string>
+    <string name="BtnSign">+/-</string>
+    <string name="BtnPercent">%</string>
+    <string name="BtnDivide">÷</string>
+    <string name="BtnSeven">7</string>
+    <string name="BtnEight">8</string>
+    <string name="BtnNine">9</string>
+    <string name="BtnMultiply">x</string>
+    <string name="BtnSix">6</string>
+    <string name="BtnFive">5</string>
+    <string name="BtnFour">4</string>
+    <string name="BtnMinus">-</string>
+    <string name="BtnOne">1</string>
+    <string name="BtnTwo">2</string>
+    <string name="BtnThree">3</string>
+    <string name="BtnPlus">+</string>
+    <string name="BtnZero">0</string>
+    <string name="BtnPoint">.</string>
+    <string name="BtnEqual">=</string>
+
+
+</resources>
